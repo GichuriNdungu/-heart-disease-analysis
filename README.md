@@ -1,4 +1,3 @@
-```markdown
 # Heart Disease Clustering Analysis
 
 ## Table of Contents
@@ -82,5 +81,3 @@ Hierarchical Clustering emerged as the most optimal model, achieving the highest
 
 ## Conclusion
 The analysis successfully applies various clustering techniques to the heart disease dataset, with Hierarchical Clustering providing the most insightful patterns related to heart disease risk factors.
-```
-This format provides a clearer structure, making it easier to navigate through the document.
